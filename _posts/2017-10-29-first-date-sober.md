@@ -3,7 +3,7 @@ id: 30
 title: First date sober
 date: 2017-10-29T00:10:00+00:00
 author: Techno Bodhi
-layout: post
+classes: wide
 guid: https://technobodhi.com/?p=30
 permalink: /2017/10/29/first-date-sober/
 categories:

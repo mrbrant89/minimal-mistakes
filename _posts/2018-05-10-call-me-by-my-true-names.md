@@ -3,7 +3,7 @@ id: 292
 title: Call Me by My True Names
 date: 2018-05-10T12:27:16+00:00
 author: Techno Bodhi
-layout: post
+classes: wide
 guid: https://technobodhi.com/?p=292
 permalink: /2018/05/10/call-me-by-my-true-names/
 image: /wp-content/uploads/2018/05/pexels-photo-69759.jpeg

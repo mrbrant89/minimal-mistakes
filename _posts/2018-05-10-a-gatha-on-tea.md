@@ -3,7 +3,7 @@ id: 302
 title: A Gatha on Tea
 date: 2018-05-10T12:48:12+00:00
 author: Techno Bodhi
-layout: post
+classes: wide
 guid: https://technobodhi.com/?p=302
 permalink: /2018/05/10/a-gatha-on-tea/
 image: /wp-content/uploads/2018/05/A-Gatha-on-Tea-2.jpg

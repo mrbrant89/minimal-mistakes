@@ -4,7 +4,7 @@ title: Steering Clear of Emotional Entanglements
 date: 2017-11-07T16:19:12+00:00
 author: Techno Bodhi
 excerpt: When our sobriety has a foundation firm enough to withstand stress, then we are ready to work through and straighten out other aspects of our lives.
-layout: post
+classes: wide
 guid: https://technobodhi.com/?p=69
 permalink: /2017/11/07/steering-clear-of-emotional-entanglements/
 image: /wp-content/uploads/2017/11/pexels-photo-349308.jpeg

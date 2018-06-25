@@ -3,7 +3,7 @@ id: 265
 title: The Fourteen Precepts of Engaged Buddhism
 date: 2018-04-03T15:18:27+00:00
 author: Techno Bodhi
-layout: post
+classes: wide
 guid: https://technobodhi.com/?p=265
 permalink: /2018/04/03/the-fourteen-precepts-of-engaged-buddhism/
 image: /wp-content/uploads/2018/04/pexels-photo-345133.jpeg

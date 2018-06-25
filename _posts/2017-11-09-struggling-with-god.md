@@ -4,7 +4,7 @@ title: Struggling with God
 date: 2017-11-09T18:04:30+00:00
 author: Techno Bodhi
 excerpt: "I'm an Atheist. I don't doubt the power of God. I don't believe in God(s). Any of them. My ideas may not have worked, but the idea of a force in the sky that doesn't exist won't work either."
-layout: post
+classes: wide
 guid: https://technobodhi.com/?p=171
 permalink: /2017/11/09/struggling-with-god/
 image: /wp-content/uploads/2017/11/pexels-photo-208414.jpeg

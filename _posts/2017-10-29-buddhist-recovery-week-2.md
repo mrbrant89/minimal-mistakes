@@ -3,7 +3,7 @@ id: 34
 title: Buddhist Recovery Week 2
 date: 2017-10-29T17:45:42+00:00
 author: Techno Bodhi
-layout: post
+classes: wide
 guid: https://technobodhi.com/?p=34
 permalink: /2017/10/29/buddhist-recovery-week-2/
 image: /wp-content/uploads/2017/10/img_3502.jpg

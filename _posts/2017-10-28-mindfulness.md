@@ -3,7 +3,7 @@ id: 28
 title: Mindfulness
 date: 2017-10-28T23:57:42+00:00
 author: Techno Bodhi
-layout: post
+classes: wide
 guid: https://technobodhi.com/?p=28
 permalink: /2017/10/28/mindfulness/
 image: /wp-content/uploads/2017/10/img_3480.jpg

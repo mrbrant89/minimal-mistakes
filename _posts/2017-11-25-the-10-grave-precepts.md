@@ -3,7 +3,7 @@ id: 252
 title: The 10 Grave Precepts
 date: 2017-11-25T08:56:57+00:00
 author: Techno Bodhi
-layout: post
+classes: wide
 guid: https://technobodhi.com/2017/11/25/the-10-grave-precepts/
 permalink: /2017/11/25/the-10-grave-precepts/
 image: /wp-content/uploads/2017/11/9c6626bc-1602-401b-b750-56ce3a0a3ce6-6395-0000043a3db32159.jpg

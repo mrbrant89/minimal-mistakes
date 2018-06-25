@@ -3,7 +3,7 @@ id: 11
 title: 'I&#8217;m an alcoholic'
 date: 2017-10-27T04:33:01+00:00
 author: Techno Bodhi
-layout: post
+classes: wide
 guid: https://technobodhi.com/?p=11
 permalink: /2017/10/27/im-an-alcoholic/
 image: /wp-content/uploads/2017/10/alcohol-hangover-event-death-52507.jpeg
