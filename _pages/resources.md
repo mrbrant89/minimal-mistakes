@@ -1,8 +1,7 @@
 ---
 title: "Resources"
 layout: splash
-permalink: /resources/
-date: 2018-06-25T23:53
+permalink: "/resources/"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -53,7 +52,7 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    ---
+---
 
-    # Coming Soon
-    Please check back soon
+# Coming Soon
+Please check back soon
