@@ -2,7 +2,7 @@
 id: 218
 title: The Janitor Bodhisattva
 date: 2017-11-10T13:02:41+00:00
-author: Techno Bodhi
+
 excerpt: 'Talking to this guy gave me a tingly feeling. Like I️ really wish I️ was that happy and could take such joy in the mundane. That’s something to work on. '
 classes: wide
 guid: https://technobodhi.com/2017/11/10/the-janitor-bodhisattva/
@@ -13,7 +13,7 @@ geo_longitude:
   - "-76.2045588"
 geo_public:
   - "1"
-image: /wp-content/uploads/2017/11/afb55760-c9d7-4d3f-ac70-87dee8a9d4f2-36732-00001e50cfe06b7f.jpg
+image: /assets/images/2017/11/afb55760-c9d7-4d3f-ac70-87dee8a9d4f2-36732-00001e50cfe06b7f.jpg
 categories:
   - Uncategorized
 ---

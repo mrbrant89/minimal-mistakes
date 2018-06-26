@@ -1,14 +1,16 @@
 ---
 id: 11
-title: 'I&#8217;m an alcoholic'
+title: 'I&#8217;m an Alcoholic'
 date: 2017-10-27T04:33:01+00:00
-author: Techno Bodhi
 classes: wide
-guid: https://technobodhi.com/?p=11
-permalink: /2017/10/27/im-an-alcoholic/
-image: /wp-content/uploads/2017/10/alcohol-hangover-event-death-52507.jpeg
 categories:
-  - Alcoholic Anonymous
+  - Alcoholics Anonymous
+  - Step 1
+excerpt: How did I get to this point? Who would have thought, 10 years ago, that I would be here today?
+header:
+    image: /assets/images/2017/10/alcohol-hangover-event-death-52507.jpeg
+    overlay_image: /assets/images/2017/10/alcohol-hangover-event-death-52507.jpeg    # Article header at 2048x768
+    teaser: /assets/images/2018/05/alcohol-hangover-event-death-52507-teaser.jpg   # Shrink image to 575x216  
 ---
 How did I get to this point? Who would have thought, 10 years ago, that I would be here today? Me, the successful entrepreneur. Me, the student with an almost perfect GPA. Me, the world traveler, foodie, and wine aficionado?
 

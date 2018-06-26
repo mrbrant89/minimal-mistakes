@@ -2,13 +2,13 @@
 id: 109
 title: 'The Lord&#8217;s Prayer'
 date: 2017-11-07T19:47:24+00:00
-author: Techno Bodhi
+
 classes: wide
 guid: https://technobodhi.com/?p=109
 permalink: /2017/11/07/the-lords-prayer/
-image: /wp-content/uploads/2017/11/pexels-photo-415571.jpeg
+image: /assets/images/2017/11/pexels-photo-415571.jpeg
 categories:
-  - Alcoholic Anonymous
+  - Alcoholics Anonymous
 ---
 The AA group I am in is called "Open Minded Mens". I'd say about half of the group is LGBT. And the majority is non-religious. Visiting a group on the East Coast, obviously they are very devoutly Christian, so it was an interesting experience.
 

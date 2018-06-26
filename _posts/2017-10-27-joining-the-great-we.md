@@ -2,11 +2,11 @@
 id: 18
 title: Joining the Great We
 date: 2017-10-27T22:16:43+00:00
-author: Techno Bodhi
+
 classes: wide
 guid: https://technobodhi.com/?p=18
 permalink: /2017/10/27/joining-the-great-we/
-image: /wp-content/uploads/2017/10/15676499_1228299487254706_3588137290583482412_o.jpg
+image: /assets/images/2017/10/15676499_1228299487254706_3588137290583482412_o.jpg
 categories:
   - Buddhist Recovery
 ---

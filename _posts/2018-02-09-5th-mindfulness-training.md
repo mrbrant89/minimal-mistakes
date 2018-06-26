@@ -2,11 +2,11 @@
 id: 261
 title: The 5th Mindfulness Training
 date: 2018-02-09T11:50:20+00:00
-author: Techno Bodhi
+
 classes: wide
 guid: https://technobodhi.com/?p=261
 permalink: /2018/02/09/5th-mindfulness-training/
-image: /wp-content/uploads/2018/02/pexels-photo-267967.jpeg
+image: /assets/images/2018/02/pexels-photo-267967.jpeg
 categories:
   - Spiritual Practice
 tags:

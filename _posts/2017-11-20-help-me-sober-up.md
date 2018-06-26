@@ -2,12 +2,12 @@
 id: 243
 title: Help Me Sober Up
 date: 2017-11-20T09:24:30+00:00
-author: Techno Bodhi
+
 excerpt: I heard this song for the first time yesterday when I was driving home from Joshua Tree. It really struck me as something I can relate to.
 classes: wide
 guid: https://technobodhi.com/?p=243
 permalink: /2017/11/20/help-me-sober-up/
-image: /wp-content/uploads/2017/11/maxresdefault-1.jpg
+image: /assets/images/2017/11/maxresdefault-1.jpg
 categories:
   - Living Sober
 tags:

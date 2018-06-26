@@ -2,11 +2,11 @@
 id: 43
 title: Peace With Every Step
 date: 2017-11-05T14:23:18+00:00
-author: Techno Bodhi
+
 classes: wide
 guid: https://technobodhi.com/2017/11/05/peace-with-every-step/
 permalink: /2017/11/05/peace-with-every-step/
-image: /wp-content/uploads/2017/11/img_3595-1.jpg
+image: /assets/images/2017/11/img_3595-1.jpg
 categories:
   - Spiritual Practice
 ---

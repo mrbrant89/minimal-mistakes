@@ -2,14 +2,14 @@
 id: 171
 title: Struggling with God
 date: 2017-11-09T18:04:30+00:00
-author: Techno Bodhi
+
 excerpt: "I'm an Atheist. I don't doubt the power of God. I don't believe in God(s). Any of them. My ideas may not have worked, but the idea of a force in the sky that doesn't exist won't work either."
 classes: wide
 guid: https://technobodhi.com/?p=171
 permalink: /2017/11/09/struggling-with-god/
-image: /wp-content/uploads/2017/11/pexels-photo-208414.jpeg
+image: /assets/images/2017/11/pexels-photo-208414.jpeg
 categories:
-  - Alcoholic Anonymous
+  - Alcoholics Anonymous
 ---
 Today I had my daily call with my sponsor. And he had me read page 52 in the Big Book. The main part he wanted me to read is the following:
 <blockquote>"We were having trouble with personal relationships, we couldn't control our emotional natures, we were a prey to misery and depression, we couldn't make a living, we had a feeling of uselessness, we were full of fear, we were unhappy, we couldn't seem to be of real help to other people"

@@ -2,11 +2,10 @@
 id: 273
 title: Deer Park Retreat
 date: 2018-05-10T12:04:53+00:00
-author: Techno Bodhi
 classes: wide
 guid: https://technobodhi.com/?p=273
 permalink: /2018/05/10/deer-park-retreat/
-image: /wp-content/uploads/2018/05/IMG_6560.jpg
+image: /assets/images/2018/05/IMG_6560.jpg
 categories:
   - Engaged Buddhism
   - Spiritual Practice

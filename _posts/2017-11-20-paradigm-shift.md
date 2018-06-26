@@ -2,12 +2,12 @@
 id: 221
 title: Paradigm Shift
 date: 2017-11-20T09:20:48+00:00
-author: Techno Bodhi
+
 excerpt: "This weekend was the first time that I've felt happier sober than inebriated. This was my fourth time to Joshua Tree, but by far the most magical. Being with my friend we got to do and see a lot more than I could with my Mom on previous trips."
 classes: wide
 guid: https://technobodhi.com/?p=221
 permalink: /2017/11/20/paradigm-shift/
-image: /wp-content/uploads/2017/11/JTree2017-010_HDR.jpg
+image: /assets/images/2017/11/JTree2017-010_HDR.jpg
 categories:
   - Living Sober
 tags:
