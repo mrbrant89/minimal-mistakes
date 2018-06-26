@@ -4,7 +4,7 @@ date: 2018-05-10T12:48:12+00:00
 classes: wide
 categories:
   - Engaged Buddhism
-  - 11th Step
+  - Step 11
 tags:
   - gatha
   - tea
