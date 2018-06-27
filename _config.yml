@@ -60,12 +60,12 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : "google" # lunr (default), algolia, google
+search_provider          : "lunr" # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : BVMYMNOMC2 # YOUR_APPLICATION_ID
+  index_name             : "Techno Bodhi" # YOUR_INDEX_NAME
+  search_only_api_key    : 281cc19769da0e86e1d14484a8090ff5 # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : false # true (default), false
 google:
   search_engine_id       : 002658169754286400439:gtc4ppibujw # YOUR_SEARCH_ENGINE_ID
   instant_search         : true # false (default), true
