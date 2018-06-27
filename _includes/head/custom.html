@@ -1,5 +1,6 @@
 <!-- start custom head snippets -->
 
+<!-- Favicon -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/assets/images/favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/assets/images/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/assets/images/favicon/favicon-16x16.png">
@@ -12,5 +13,30 @@
 <meta name="msapplication-TileImage" content="{{ site.url }}/assets/images/favicon/mstile-144x144.png">
 <meta name="msapplication-config" content="{{ site.url }}/assets/images/favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
+
+<!-- Cookie Notice -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#eb6c44",
+      "text": "#ffffff"
+    },
+    "button": {
+      "background": "transparent",
+      "text": "#f5d948",
+      "border": "#f5d948"
+    }
+  },
+  "content": {
+    "dismiss": "Dismiss",
+    "href": "https://technobodhi.com/privacy"
+  }
+})});
+</script>
+
 
 <!-- end custom head snippets -->
