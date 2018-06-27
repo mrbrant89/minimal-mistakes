@@ -79,9 +79,9 @@ naver_site_verification  :
 twitter:
   username               : technobodhi
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : technobodhi
+  app_id                 : 257774388329357
+  publisher              : "https://facebook.com/technobodhi"
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
