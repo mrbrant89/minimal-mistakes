@@ -1,12 +1,7 @@
 ---
-id: 265
 title: The Fourteen Precepts of Engaged Buddhism
 date: 2018-04-03T15:18:27+00:00
-
 classes: wide
-guid: https://technobodhi.com/?p=265
-permalink: /2018/04/03/the-fourteen-precepts-of-engaged-buddhism/
-image: /assets/images/2018/04/pexels-photo-345133.jpeg
 categories:
   - Buddhist Recovery
   - Spiritual Practice
@@ -15,10 +10,13 @@ tags:
   - interbeing
   - mindfulness
   - thich nhat hanh
+excerpt: The more I study Buddhism, the more I realize I know nothing. I've been practicing mindfulness with Open Heart Sangha in San Diego twice per week. They practice in the tradition of Plum Village and Zen Master Thich Nhat Hanh.
+header:
+    image: /assets/images/2018/04/pexels-photo-345133.jpg         # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2018/04/pexels-photo-345133-compressed.jpg    # Article header at 2048x768
+    teaser: /assets/images/2018/04/pexels-photo-345133-teaser.jpg   # Shrink image to 575x216   
 ---
-<style type="text/css">
-li {margin-bottom: 1em;}
-</style>The more I study Buddhism, the more I realize I know nothing. I've been practicing mindfulness with Open Heart Sangha in San Diego twice per week. They practice in the tradition of Plum Village and Zen Master Thich Nhat Hanh.
+The more I study Buddhism, the more I realize I know nothing. I've been practicing mindfulness with Open Heart Sangha in San Diego twice per week. They practice in the tradition of Plum Village and Zen Master Thich Nhat Hanh.
 
 I've signed up for my first half day of mindfulness this coming weekend and then a weekend of mindfulness in May. I'm both excited and a little scared for the one in May. It will be three days of digital detox and a lot of silence.
 
