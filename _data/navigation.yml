@@ -1,7 +1,9 @@
 # main links
 main:
   - title: "Categories"
-    url: /categories/
+    url: /category-list/
+  - title: "Tags"
+    url: /tag-list/  
   - title: "Resources"
     url: /resources/  
   # - title: "About"
