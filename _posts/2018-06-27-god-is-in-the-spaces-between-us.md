@@ -16,7 +16,8 @@ excerpt: As the Trump regime continues to challenge the rule of law, the future 
 header:
     image: /assets/images/2018/06/sunset-flag-america-fields.jpg       # Twitter (use 'overlay_image')
     overlay_image: /assets/images/2018/06/sunset-flag-america-fields-compressed.jpg  # Article header at 2048x768
-    teaser: /assets/images/2018/06/sunset-flag-america-fields-teaser.jpg   # Shrink image to 575x216  
+    teaser: /assets/images/2018/06/sunset-flag-america-fields-teaser.jpg   # Shrink image to 575x216
+    og_image: /assets/images/2018/06/sunset-flag-america-fields.jpg
 ---
 
 We're living in a dark period in American history - perhaps the darkest period since the Civil War. As the Trump regime continues to challenge the rule of law, the future of American Democracy itself hangs in the balance. Every day, the news seems to get more and more dire. And a lot of people are losing hope that things will get better. Many millennials lack the basic hope that they will have a future where they can adequately support themselves, own a home or retire.
