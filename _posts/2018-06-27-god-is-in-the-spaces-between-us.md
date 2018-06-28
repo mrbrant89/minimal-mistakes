@@ -34,9 +34,11 @@ In essence, Kennedy is the deciding vote on most issues at the moment, on a cour
 
 ## Never Lose Hope
 
-Looking at my Facebook today, there is a lot of anxiety and panic amongst liberals specifically and rational Americans, more generally. One super upset friend said
+Looking at my Facebook today, there is a lot of anxiety and panic amongst liberals specifically and rational Americans, more generally. One super upset friend said:
+
 > I feel no hope right now. Republicans have ruined this country, likely for good.
-which is how a lot of Americans are feeling right now. 
+
+Which is how a lot of Americans are feeling right now. 
 
 But we must never lose hope. We Americans are a resilient bunch. We will recover from this. And if we don't recover, we will rebuild from the ashes. It may feel like there is no future, no hope, but we've survived a Civil War. Humanity has survived two World Wars, the Crusades, the Dark Ages and the collapse of Rome. We will survive Donald Trump.
 
