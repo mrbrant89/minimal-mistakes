@@ -24,13 +24,13 @@ We're living in a dark period in American history - perhaps the darkest period s
 
 ## Mitch McConnell's Obstructionism in 2016
 
-With Mitch McConnell's refusal to confirm Merrick Garland[^1],President Obama was denied an opportunity to appoint a Supreme Court Justice - forcing us to wait until the outcome of the 2016 presidential election to fill the vacant seat. When it became clear that winner was not Hillary Clinton, many in America gave a collective sigh. And we ultimately got us Neil Gorsuch[^2] as a result of this obstructionism.
+With Mitch McConnell's refusal to confirm Merrick Garland[^1],President Obama was denied an opportunity to appoint a Supreme Court Justice - forcing us to wait until the outcome of the 2016 presidential election to fill the vacant seat. When it became clear that winner was not Hillary Clinton, many in America gave a collective sigh. In the end, Donald Trump nominated Neil Gorsuch[^2], who was confirmed by the Senate.
 
 ## Announcement of Anthony Kennedy's Retirement
 
-Today Justice Anthony Kennedy, 81, the moderate justice that was appointed by Ronald Reagan in 1987 announced his retirement[^3]. Kennedy famously gave us liberal rulings in cases concerning LGBTQ rights, abortion, capital punishment and racial equality. And conservative rulings on cases about campaign finance, religious freedom, commercial speech and federalism[^4].
+Today, Justice Anthony Kennedy, 81, the moderate justice that was appointed by Ronald Reagan in 1987, announced his retirement[^3]. Kennedy famously gave us liberal rulings in cases concerning LGBTQ rights, abortion, capital punishment and racial equality. And conservative rulings on cases about campaign finance, religious freedom, commercial speech and federalism[^4]. While I think history will remember him as more of a positive force than a negative one, he certainly has blood on his hands where *Citizens United* is concerned.
 
-In essence, he is the deciding vote on most issues at the moment, on a court that is evenly stacked with four conservative Justices and four liberal Justices. His retirement is, rightfully, creating a lot of anxiety. His departure will give Donald Trump another opportunity to appoint a conservative Justice that will likely upset the balance of power on the Supreme Court for a generation.
+In essence, Kennedy is the deciding vote on most issues at the moment, on a court that is evenly stacked with four conservative Justices and four liberal Justices. His retirement is, rightfully, creating anxiety for a lot of Americans. His departure will give Donald Trump another opportunity to appoint a conservative Justice that will likely upset the balance of power on the Supreme Court for a generation.
 
 ## Never Lose Hope
 
