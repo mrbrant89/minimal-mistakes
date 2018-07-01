@@ -1,18 +1,27 @@
 ---
-id: 252
 title: The 10 Grave Precepts
 date: 2017-11-25T08:56:57+00:00
-
 classes: wide
-guid: https://technobodhi.com/2017/11/25/the-10-grave-precepts/
-permalink: /2017/11/25/the-10-grave-precepts/
-image: /assets/images/2017/11/9c6626bc-1602-401b-b750-56ce3a0a3ce6-6395-0000043a3db32159.jpg
 categories:
   - Spiritual Practice
+  - Step 11
+tags:
+  - Buddhism
+  - Meditation
+  - Friday night
+  - Sober Friday
+excerpt: "My friend and I went to Temple last night. It was a pretty cool place to be on a Friday night. Who would have ever thought I'd be at *church* on a Friday rather than out drinking?"
+header:
+    image: /assets/images/2017/11/reclining-buddha.jpg       # Twitter (use 'overlay_image')
+    og_image: /assets/images/2017/11/reclining-buddha.jpg
+    overlay_image: /assets/images/2017/11/reclining-buddha-compressed.jpg  # Article header at 2048x768
+    teaser: /assets/images/2017/11/reclining-buddha-teaser.jpg   # Shrink image to 575x216 
 ---
+
 My friend and I went to Temple last night. It was a pretty cool place to be on a Friday night. Who would have ever thought I'd be at "church" on a Friday rather than out drinking?
 
 One of the things I discussed with a guy after the meeting was the Lay Precepts. And I wanted to list these just for my own reflection.
+
 <blockquote>
 <ul>
  	<li>Respect life – Do not kill</li>

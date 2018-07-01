@@ -1,19 +1,21 @@
 ---
-id: 261
-title: The 5th Mindfulness Training
+title: "The 5th Mindfulness Training"
 date: 2018-02-09T11:50:20+00:00
-
 classes: wide
-guid: https://technobodhi.com/?p=261
-permalink: /2018/02/09/5th-mindfulness-training/
-image: /assets/images/2018/02/pexels-photo-267967.jpeg
 categories:
   - Spiritual Practice
+  - Step 10
 tags:
   - consumption
   - meditation
   - mindfulness
   - thich nhat hanh
+excerpt: "While this doesn't directly relate to AA or Recovery, it definitely is in the same ballpark. And it really resonated with me. Particularly regarding some of my habits such as mindless consumption of food, eating out, social media and shopping with money I don't have."
+header:
+    image: /assets/images/2018/02/man-meditating-on-a-hill.jpg       # Twitter (use 'overlay_image')
+    og_image: /assets/images/2018/02/man-meditating-on-a-hill.jpg
+    overlay_image: /assets/images/2018/02/man-meditating-on-a-hill-compressed.jpg  # Article header at 2048x768
+    teaser: /assets/images/2018/02/man-meditating-on-a-hill-teaser.jpg   # Shrink image to 575x216
 ---
 I was away traveling for December and January. I learned a lot about myself. And the world. But I'm pretty happy to be home. A lot of things I wasn't too happy about happened on the trip too.
 
