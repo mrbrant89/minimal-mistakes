@@ -1,6 +1,6 @@
 ---
 title: "Coming to Terms with God: An Atheist's Journey"
-date: 2018-06-27T16:10:00-07:00
+date: 2018-06-29T23:00:00-07:00
 classes: wide
 categories:
   - Step 2
