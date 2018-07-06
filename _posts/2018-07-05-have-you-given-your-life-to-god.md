@@ -1,6 +1,6 @@
 ---
 title: "Have You Given Your Life to God"
-date: 2018-07-01T14:01:00+00:00
+date: 2018-07-05T18:26:00+00:00
 classes: wide
 categories:
   - Step 6
