@@ -15,7 +15,7 @@ header:
     overlay_filter: rgba(0, 0, 0, 0.2)
     teaser: /assets/images/2018/09/bokeh-girl-teaser.jpg   # Shrink image to 575x216
     og_image: /assets/images/2018/09/bokeh-girl.jpg
-    caption: Photo by [Levi Damasceno](https://www.pexels.com/@levi-damasceno-169031) from Pexels
+    caption: Photo by [Matheus Bertelli](https://www.pexels.com/@bertellifotografia) from Pexels
 ---
 
 Last Thursday I went to one of my regular meetings where the format is to read some topic from *As Bill Sees It*. This week the topic was **self-righteousness**. Usually I can relate to some small bits of these reading, but this week really spoke to me. I could relate to all of them.
