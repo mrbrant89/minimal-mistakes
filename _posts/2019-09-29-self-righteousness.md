@@ -8,7 +8,7 @@ tags:
   - self-righteousness
   - defect of character
   - healing
-excerpt: "If you want to truly be free, you have to let go of everything you fear losing."
+excerpt: " What others do isn't my business. I need to focus on myself, my own recovery and being of service to others."
 header:
     image: /assets/images/2018/09/bokeh-girl.jpg       # Twitter (use 'overlay_image')
     overlay_image: /assets/images/2018/09/bokeh-girl-compressed.jpg  # Article header at 2048x768
