@@ -8,7 +8,7 @@ tags:
   - god
   - surrender
   - healing
-excerpt: " What others do isn't my business. I need to focus on myself, my own recovery and being of service to others."
+excerpt: " To focus on being of service to others. To shift our focus away from what we want. This has been transformational in my recovery. "
 header:
     image: /assets/images/2018/12/one-year-coin.jpg       # Twitter (use 'overlay_image')
     overlay_image: /assets/images/2018/12/one-year-coin-compressed.jpg  # Article header at 2048x768
