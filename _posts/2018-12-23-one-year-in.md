@@ -56,14 +56,14 @@ On the other end of the spectrum, I would pick weak people to fix. People with m
 
 > "Consider how hard it is to change yourself and you'll understand how little chance you have of changing others"
 
-Many of these people were also my drinking buddies, because misery loves company. And we were definitely a miserable lot. (Unfortunately, most of my old drinking buddies are still are fairly unhappy.)
+Many of these people were also my drinking buddies, because misery loves company. And we were definitely a miserable lot. (Unfortunately, most of my old drinking buddies are still fairly unhappy.)
 
 Romantically, I didn't have much success either. Because I made my relationships about me. About my needs. Without much thought for my partner. 
 
 #### Emotions
 One of the underlying causes of addiction is emotions. And, in my opinion, one of our largest contemporary social problems. We don't learn how to feel. Expressing emotions is weakness. Especially for men. So we hold everything in. 
 
-Even before I found alcohol at Age 23, I avoided feeling. I either used food - or workaholism - to not have to think or feel.
+Even before I turned to alcohol at age 23, I avoided feeling. I either used food - or workaholism - to not have to think or feel.
 
 I was massively insecure, yet masked it by acting arrogant. I craved the approval of others - wanted, *needed*, to be liked - even by people that I didn't necessarily like back. And when they didn't like me - or when I convinced myself they must not like me - it would crush me. 
 
