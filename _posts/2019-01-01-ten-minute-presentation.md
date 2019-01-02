@@ -6,8 +6,8 @@ classes: wide
 categories:
   - Step 12
 tags:
-  - unity
-  - harmony
+  - service
+  - speaking
   - fellowship
 excerpt: "I had the pleasure of speaking for 10 minutes at a speaker meeting that my friend facilitates. I've attached my audio recording. I'd love to know what you think."
 header:
