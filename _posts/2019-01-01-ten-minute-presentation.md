@@ -9,6 +9,7 @@ tags:
   - service
   - speaking
   - fellowship
+  - audio
 excerpt: "I had the pleasure of speaking for 10 minutes at a speaker meeting that my friend facilitates. I've attached my audio recording. I'd love to know what you think."
 header:
     image: /assets/images/2019/01/audio-placeholder.jpg       # Twitter (use 'overlay_image')
