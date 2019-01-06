@@ -5,7 +5,7 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Audio"
-    url: /category/audio/
+    url: /audio/
   - title: "Resources"
     url: /resources/  
   # - title: "About"
