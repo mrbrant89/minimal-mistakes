@@ -6,4 +6,6 @@ permalink: "/audio/"
 author_profile: true
 taxonomy: audio
 entries_layout: grid
+classes: wide
+show_excerpts: false
 ---
