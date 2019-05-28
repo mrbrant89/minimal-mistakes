@@ -53,7 +53,9 @@ Fortunately my Mom was able to fly to Ohio and nurse him back to health. In a fe
 I'm still not happy about death, but I've accepted the inevitability of it. And I was able to do so - including process what was going on with my Dad - without needing to drink. That is a blessing from the program.
 
 ### 3. Being okay not being liked by everyone in the room
-When I was going through the steps the first time, and doing a 5th step with my sponsor, one character defect that kept coming up was co-dependence. I needed people to behave how I wanted them to behave to be okay. I needed to be liked to be okay. 
+When I was going through the steps the first time, and doing a 5th step with my sponsor, one character defect that kept coming up was co-dependence. I needed people to behave in the very *black and white* way that I was raised to believe that people ought to behave. And worst of all, I needed to be liked to be okay. 
+
+I wasn't happy about who I am or know how to love myself, so I was looking externally for validation. The thing about people is that they are human and imperfect. And will always let you down. So I've learned how important self-love and self-care are.
 
 For example, if I was in a room of 100 people, 99 who told me I was awesome and 1 who hated me, I would have fixated on the one who didn't praise me.  I *needed* them to like me.
 
