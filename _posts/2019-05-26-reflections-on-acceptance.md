@@ -1,6 +1,6 @@
 ---
 title: "Reflections on Acceptance"
-permalink: #
+permalink: /2019/05/reflections-on-acceptance
 date: 2019-05-26T17:45:00+00:00
 classes: wide
 categories:

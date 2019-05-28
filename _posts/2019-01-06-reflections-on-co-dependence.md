@@ -1,6 +1,6 @@
 ---
 title: "Reflections on Co-Dependence"
-permalink: #
+permalink: /2019/01/reflections-on-co-dependence
 date: 2019-01-06T15:15:00+00:00
 classes: wide
 categories:
