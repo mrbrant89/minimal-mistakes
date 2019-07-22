@@ -18,6 +18,9 @@ header:
     teaser: /assets/images/2019/01/audio-placeholder-teaser.jpg   # Shrink image to 575x216
     og_image: /assets/images/2019/01/audio-placeholder.jpg
     caption: Photo by [Pixabay](https://www.pexels.com/photo/hand-metal-music-musician-33779/) from Pexels
+    video:
+    id: dYIGE8ph3MY
+    provider: youtube
 published: true
 ---
 
