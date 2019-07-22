@@ -24,6 +24,8 @@ header:
 published: true
 ---
 
+{% include video id="dYIGE8ph3MY" provider="youtube" %}
+
 I had the pleasure of speaking for 25 minutes at a speaker meeting that my friend facilitates. I've attached my audio recording. I'd love to know what you think.
 
 <audio controls>
