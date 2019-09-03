@@ -16,7 +16,7 @@ header:
     overlay_filter: rgba(0, 0, 0, 0.2)
     teaser: /assets/images/2019/09/the-five-remembrances-teaser.jpg   # Shrink image to 575x216
     og_image: /assets/images/2019/09/the-five-remembrances.jpg
-    caption: Photo by [Pixabay](https://www.pexels.com/photo/hand-metal-music-musician-33779/) from Pexels
+    caption: Photo by James Wheeler from Pexels
 published: true
 ---
 
