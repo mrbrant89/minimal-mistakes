@@ -1,5 +1,5 @@
 ---
-title: "!2 Steps to Humility"
+title: "12 Steps to Humility"
 permalink: /2019/09/12-steps-to-humility
 date: 2019-09-15T18:00:00+00:00
 classes: wide
