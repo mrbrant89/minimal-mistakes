@@ -24,8 +24,8 @@ Today, I had my monthly meeting with my sponsor to have a philosophical discussi
 
 One quote from our reading that really stood out to me was:
 
-> "Humility is when your outside and inside match"
-> - St. Theresa of Avila
+> "Humility is when your outside and inside match"   
+> -St. Theresa of Avila
 
 I also really liked the following **12 Steps to Humility** from the **Rule of St. Benedict**
 
@@ -45,5 +45,5 @@ I also really liked the following **12 Steps to Humility** from the **Rule of St
 Many of these are completely contrary to our *Instagram influencer* culture of today, but nonetheless valuable when one is striving for humility.
 
 One last quote from the reading that struck me was:
-> "In humility is perfect freedom because in humility we accept the truth"
+> "In humility is perfect freedom because in humility we accept the truth"   
 > -Thomas Merton
