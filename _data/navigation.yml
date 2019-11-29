@@ -19,23 +19,23 @@ main:
 leaving-aa:
   - title: Leaving AA
     children:
-      - title: "Introduction"
+      - title: "1. Introduction"
         url: /2019/11/leaving-aa-introduction
-      - title: "Why Leave AA?"
+      - title: "2. Why Leave AA?"
         url: #
-      - title: "My Experiences in AA"
+      - title: "3. My Experiences in AA"
         url: #
-      - title: "What I Gained from AA"
+      - title: "4. What I Gained from AA"
         url: #
-      - title: "AA Dogma & Quirks"
+      - title: "5. AA Dogma & Quirks"
         url: #
-      - title: "Irreconcilable Differences"
+      - title: "6. Irreconcilable Differences"
         url: #
-      - title: "What Works, What Doesn't"
+      - title: "7. What Works, What Doesn't"
         url: #
-      - title: "The Truth About 12 Stepping"
+      - title: "8. The Truth About 12 Stepping"
         url: #
-      - title: "What I've Learned About Addiction"
+      - title: "9. What I've Learned About Addiction"
         url: #
-      - title: "Where I Go From Here"
+      - title: "10. Where I Go From Here"
         url: #
