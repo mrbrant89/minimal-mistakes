@@ -5,6 +5,7 @@ date: 2019-11-28T18:00:00+00:00
 author_profile: false
 sidebar:
   nav: "leaving-aa"
+classes: wide
 categories:
   - Leaving AA
 tags:
