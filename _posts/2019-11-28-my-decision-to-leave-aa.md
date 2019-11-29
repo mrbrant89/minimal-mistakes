@@ -17,7 +17,7 @@ header:
     overlay_filter: rgba(0, 0, 0, 0.2)
     teaser: /assets/images/2019/11/forest-path-teaser.jpg   # Shrink image to 575x216
     og_image: /assets/images/2019/11/forest-path.jpg
-    caption: Photo by KIM DAE JEUNG from Pexels [link](https://www.pexels.com/photo/photo-of-roadway-surrounded-by-trees-2734421/)
+    caption: Photo by [KIM DAE JEUNG](https://www.pexels.com/photo/photo-of-roadway-surrounded-by-trees-2734421/) from Pexels 
 published: true
 ---
 
