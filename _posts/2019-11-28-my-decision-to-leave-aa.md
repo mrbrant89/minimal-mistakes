@@ -4,7 +4,6 @@ permalink: /2019/11/leaving-aa-introduction
 date: 2019-11-28T18:00:00+00:00
 sidebar:
   nav: "leaving-aa"
-classes: wide
 categories:
   - Leaving AA
 tags:
