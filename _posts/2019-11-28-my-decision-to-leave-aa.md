@@ -2,6 +2,7 @@
 title: "Leaving Alcoholics Anonymous: An Introduction"
 permalink: /2019/11/leaving-aa-introduction
 date: 2019-11-28T18:00:00+00:00
+author_profile: false
 sidebar:
   nav: "leaving-aa"
 categories:
