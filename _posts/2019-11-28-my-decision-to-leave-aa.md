@@ -9,7 +9,7 @@ classes: wide
 categories:
   - Leaving AA
 tags:
-  - alcoholic anonymous
+  - alcoholics anonymous
   - leaving aa
 excerpt: The first blog in a series of 10 detailing my decision to leave the fellowship of Alcoholics Anonymous.
 header:
@@ -25,6 +25,9 @@ published: true
 2019 has been a year of a lot of changes, progress, and growth in my life. I've been abstinent from alcohol for over 2 years, I've lost 63 pounds, and I've significantly improved my meditation and mindfulness practice. The catalyst for all of these changes was my experience getting involved in Alcoholics Anonymous. However, through a series of events, I've decided that it is no longer the best way for me to continually evolve and grow.
 
 I am going to write, what I hope is a fair and objective series of 10 blogs about my experience in AA, in the hopes that anyone looking to solve their own problems with addiction and compulsive behavior can hear a perspective that you will never get in the rooms of Alcoholics Anonymous. I will update the sidebar on this page as the blogs are written.
+
+> ## Disclaimer
+> This is one man's opinion on Alcoholics Anonymous. If you are suffering from addiction and getting help from a 12 Step Program, continue doing what works for you. This is in no way meant to encourage anyone else to discontinue their own program if it's working. I simply got to a point where it was no longer working for me.
 
 ## What Is AA
 > Alcoholics Anonymous is a fellowship of men and women who share their experience, strength and hope with each other that they may solve their common problem and help others to recover from alcoholism. The only requirement for membership is a desire to stop drinking.
