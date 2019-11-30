@@ -135,6 +135,8 @@ This is supposed to be a leader, both in and out of the rooms. A man who is supp
 
 ### Publicly embarrassing new members
 
+
+
 ### 13th stepping
 
 ## 3. *We Don't Take Others Inventory* And A General Rejection of Personal Accountability
