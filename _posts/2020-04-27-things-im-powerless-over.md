@@ -8,7 +8,7 @@ categories:
 tags:
   - powerlessness
   - surrender
-excerpt: Today, I had my monthly meeting with my sponsor to have a philosophical discussion on Step 7. We also talked about a recent resentment of mine. And spiritual growth in this process, especially concerning my confidence."
+excerpt: I'm powerless over all persons, places and things other than myself.
 header:
     image: /assets/images/2020/04/infinite-dunes.jpg       # Twitter (use 'overlay_image')
     overlay_image: /assets/images/2020/04/infinite-dunes-compressed.jpg  # Article header at 2048x768
