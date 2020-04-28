@@ -13,7 +13,7 @@ header:
     image: /assets/images/2020/04/infinite-dunes.jpg       # Twitter (use 'overlay_image')
     overlay_image: /assets/images/2020/04/infinite-dunes-compressed.jpg  # Article header at 2048x768
     overlay_filter: rgba(0, 0, 0, 0.2)
-    teaser: /assets/imag20/04/infinite-dunes-teaser.jpg   # Shrink image to 575x216
+    teaser: /assets/images/2020/04/infinite-dunes-teaser.jpg   # Shrink image to 575x216
     og_image: /assets/images/2020/04/infinite-dunes.jpg
     caption: Photo by Walid Ahmad from Pexels
 published: true
