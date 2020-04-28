@@ -135,12 +135,55 @@ This is supposed to be a leader, both in and out of the rooms. A man who is supp
 
 ### Publicly embarrassing new members
 
+This is more the exception than the norm, but is still something I've witnessed, particularly at my Monday Night Men's Meeting which was a fairly large meeting (up to 100 people, average around 60).
 
+One notable instance was a new guy, who was attending an AA meeting despite suffering from some issue other than alcohol. When he got up, he introduced himself as an addict rather than an alcoholic. 
+
+To me, addiction is addiction. Alcoholic, drug addict, sex addict, compulsive eater - it's all the same thing. Who cares what language he uses? But one of the *old timers* in the meeting disagreed. Despite a *no cross-talk* rule, he interrupted the visibly nervous guy, by shouting at him, in front of the whole room and asking him if he wants to get better. He said yes. So the *old timer* said *then you are an alcoholic. Say you are an alcoholic, not an addict, this isn't NA*.
+
+Definitely not the best approach if you're trying to reach someone who is hurting.
+
+Another notable experience was Big Don putting my sponsee John on the spot, publicly, in front of the whole room, after a relapse. John had recently relapsed and come back to AA immediately after the relapse. As is standard, at the beginning of the meeting they ask everyone who has less than 30 days of continuous sobriety.  John had to stand up again after taking a 30 day token, which is definitely embarrassing. It says to the whole room that someone has relapsed. In AA, relapse is a moral failure on the part of the relapsee. And it is taboo, rather than a natural consequence of alcoholism, meaning someone needs some extra loving. 
+
+Anyway, at the end of the meeting, the facilitator said that they need a new backup coffee making person. Someone who can fill in when the main guy can't make it. Because having a commitment at a meeting is generally accepted as a best practice, I raised my hand and pointed to my sponsee John, volunteering him. I wanted him to have some service commitment and to get better socially integrated.
+
+Big Don stood up at the back of the room, shouting over everyone, asking John how long he has been sober. We ignored him. He asked again. The room shuffled uncomfortable, but again we ignored him. Finally, when he asked the third time, John said like a week. Big Don said that we need someone with more sobriety to make coffee. He then went on to say that the coffee maker has a key to the room (they don't) and that we just couldn't trust someone with a recent relapse to make coffee (as the backup coffee person, mind you). The facilitator then went on to basically force me to be John's guarantor - the backup to the backup - in case he isn't reliable.
+
+This whole experience completely turned me off, not least of all because these *old timers* such as Big Don have so many opinions about how things *ought to be done*, but haven't, themselves, lifted a finger in years. And, as evidenced by his comment about the coffee person having a key, he didn't even have any idea what he was talking about.
 
 ### 13th stepping
 
+Lets be honest - gay, straight, or somewhere in between - men are nasty. We just are. But most of us learn by our 20s the appropriate level of nastiness we can get away with in civilized society. That boundary doesn't exist in AA. And as I've discussed above, it is full of frat boy types looking to get laid. And creepy predatory men in general.
+
+There is a popular phrase in AA called *13th Stepping*, a play on the 12 Steps of Alcoholics Anonymous. 13th Stepping means to have sex with someone in the program, specifically someone who is new and/or vulnerable. 
+
+In other words, any woman looking for a safe space in early recovery, should stick to women's meetings. Because she is going to be a sex object to the men in AA. When there is a new woman in recovery, they are pounced on by all of the horny *SoBros*.
+
+The same can be said of young, attractive, especially *white*, young gay men. By the other gays in AA. They get pounced on and 13th stepped, at their most vulnerable. But that's kinda how gay culture is in general. There isn't generally a sexual gatekeeper like there is in heterosexual situations. So I think the women are in the more vulnerable position overall.
+
 ## 3. *We Don't Take Others Inventory* And A General Rejection of Personal Accountability
 
+One of the most valuable parts of 12 step recovery for me was step 4: taking inventory of my life, specifically taking inventory of resentments, fears, and sexual baggage. More than anything else, this helped me to throw out the emotional garbage and turn a new page in my recovery. I think this process is highly valuable for everyone, even people without issues with addiction or compulsive behavior.
+
+A general rule of thumb in AA is that *we don't take others' inventory* which is great in theory. We need to focus on keeping our own side of the street clean and not worry about others. Or be judgmental.
+
+But in practice, this turns into a complete disregard of any personal accountability for ones' actions. It is the ultimate gaslighting: being able to turn any criticism of one's behavior back on the person speaking up. If someone does something wrong and you call them out? *We don't take others inventory*. Despite the general zero sum, black and white morality of AA, this defense can be used to make any action some shade of gray. And justify it.
+
+If nothing else, the defense goes something along the lines of *I am an alcoholic and sick* so whatever I do is therefore okay. And if not okay, then something that is my business alone and certainly not yours.
+
+I've seen this logic applied to:
+
+- Being consistently late
+- Not returning calls and/or texts
+- Cheating on one's spouse
+- Practicing unsafe sexual behavior (with and without the presence of STIs)
+- Bullying (see above)
+- Treating women like garbage
+- Using homeless people as props in pictures for self-promotion on instagram
+
+That said, I realize it's not my job to be these peoples conscience. I have enough of my own issues to worry about and fix. But the complete disregard of any personal accountability for anything baffled me. Especially in a program that claims to be a self-help program based upon spiritual principles. 
+
+It's also quite striking that AA is so black and white about some things - like a small sip of alcohol after 20 years starts you back at square one in terms of sobriety - but 13th stepping someone knowing you have HIV, or bullying someone so bad that they have to change their phone number, is *we don't take others inventory*.
 
 ## 4. There Is No Finish Line. You're Permanently *In Recovery*, You Never *Recover*
 
