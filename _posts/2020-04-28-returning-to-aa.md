@@ -80,7 +80,7 @@ I believe this was on a Sunday and I told him I was going to check out a meeting
 ## My Story in AA
 I will always vividly remember coming to AA the first time. I was terrified, practically shaking. I didn't know what to expect. My first impression was walking up to this group of guys smoking (including Danny) out front of the church that hosted the meeting and having to introduce myself.
 
-But... I eventually got used to it. It didn't become awkward. I could stand up and speak at meetings. I enjoyed the first 6 months or so with the new group of aquaintences I had made in AA. I treasured the times we went out to eat after meetings, the occasional parties I got invited to, and the 
+But... I eventually got used to it. It didn't become awkward. I could stand up and speak at meetings. I enjoyed the first 6 months or so with the new group of acquaintances I had made in AA. I treasured the times we went out to eat after meetings, the occasional parties I got invited to, and the 
 
 ## My Story Coming Back
 
