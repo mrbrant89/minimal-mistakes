@@ -11,11 +11,11 @@ tags:
   - unmanageability
 excerpt: Reflections on how life became unmanageable both the first time I came into AA and this most recent time.
 header:
-    image: /assets/images/2020/person-walking.jpg       # Twitter (use 'overlay_image')
-    overlay_image: /assets/images/2020/person-walking-compressed.jpg  # Article header at 2048x768
+    image: /assets/images/2020/05/person-walking.jpg       # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2020/05/person-walking-compressed.jpg  # Article header at 2048x768
     overlay_filter: rgba(0, 0, 0, 0.2)
-    teaser: /assets/images/2020/person-walking-teaser.jpg   # Shrink image to 575x216
-    og_image: /assets/images/2020/person-walking.jpg
+    teaser: /assets/images/2020/05/person-walking-teaser.jpg   # Shrink image to 575x216
+    og_image: /assets/images/2020/05/person-walking.jpg
     caption: Photo by Walid Ahmad from Pexels
 published: true
 ---
