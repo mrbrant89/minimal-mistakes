@@ -16,7 +16,7 @@ header:
     overlay_filter: rgba(0, 0, 0, 0.2)
     teaser: /assets/images/2020/05/person-walking-teaser.jpg   # Shrink image to 575x216
     og_image: /assets/images/2020/05/person-walking.jpg
-    caption: Photo by Walid Ahmad from Pexels
+    caption: Photo by Humphrey Muleba from Pexels
 published: true
 ---
 
