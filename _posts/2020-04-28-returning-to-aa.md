@@ -9,14 +9,14 @@ tags:
   - humility
   - character defects
   - freedom
-excerpt: Today, I had my monthly meeting with my sponsor to have a philosophical discussion on Step 7. We also talked about a recent resentment of mine. And spiritual growth in this process, especially concerning my confidence."
+excerpt: "In November 2019, after some deliberation, I decided to leave AA and try my hand at moderate drinking. At first, it went great. Until it didn't."
 header:
-    image: /assets/images/2019/09/bali-prayer.jpg       # Twitter (use 'overlay_image')
-    overlay_image: /assets/images/2019/09/bali-prayer-compressed.jpg  # Article header at 2048x768
+    image: /assets/images/2020/05/sad-dude.jpg       # Twitter (use 'overlay_image')
+    overlay_image: /assets/images/2020/05/sad-dude-compressed.jpg  # Article header at 2048x768
     overlay_filter: rgba(0, 0, 0, 0.2)
-    teaser: /assets/images/2019/09/bali-prayer-teaser.jpg   # Shrink image to 575x216
-    og_image: /assets/images/2019/09/bali-prayer.jpg
-    caption: Photo by Artem Beliaikin from Pexels
+    teaser: /assets/images/2020/05/sad-dude-teaser.jpg   # Shrink image to 575x216
+    og_image: /assets/images/2020/05/sad-dude.jpg
+    caption: Photo by Daniel Reche from Pexels
 published: true
 ---
 
