@@ -17,7 +17,7 @@ header:
     teaser: /assets/images/2019/09/bali-prayer-teaser.jpg   # Shrink image to 575x216
     og_image: /assets/images/2019/09/bali-prayer.jpg
     caption: Photo by Artem Beliaikin from Pexels
-published: false
+published: true
 ---
 
 In November 2019, after some deliberation, I decided to leave AA and try my hand at moderate drinking. At first, it went great. It was an amazing feeling to be able to go to dinner and have 2 glasses of wine, then stop. I really, *really* enjoyed those glasses of wine.
@@ -80,7 +80,40 @@ I believe this was on a Sunday and I told him I was going to check out a meeting
 ## My Story in AA
 I will always vividly remember coming to AA the first time. I was terrified, practically shaking. I didn't know what to expect. My first impression was walking up to this group of guys smoking (including Danny) out front of the church that hosted the meeting and having to introduce myself.
 
-But... I eventually got used to it. It didn't become awkward. I could stand up and speak at meetings. I enjoyed the first 6 months or so with the new group of acquaintances I had made in AA. I treasured the times we went out to eat after meetings, the occasional parties I got invited to, and the 
+But... I eventually got used to it. It didn't become awkward. I could stand up and speak at meetings. I enjoyed the first 6 months or so with the new group of acquaintances I had made in AA. I treasured the times we went out to eat after meetings, the occasional parties I got invited to, and the fact that there was always something to do. 
+
+I got a sponsor pretty quick, got to know him, worked through the steps and my walls began to come down a little bit. At first I was super resistant to the idea of powerlessness (not to mention a higher power) but he eventually got me on-board. Then I went to Sri Lanka and India on a 6 week backpacking trip. In Sri Lanka I ended up having one sip of alcohol, which my sponsor told me was a relapse, so when I came back I had to begin fresh with him. And he had to break down my walls again.
+
+This time my walls were broken down for the next 2 years, give or take. I got over the idea of a higher power, worked through a whole bunch of baggage with my sponsor through Steps 4 and Steps 5. And then completed the steps with him - his first sponsee to complete them - and went on to sponsor my own guys.
+
+At this point I felt like I had a solid group of - if not friends, at least acquaintances - who I looked forward to seeing at the two meetings I was regularly going to. But like most things in life, it was fleeting. Things changed. People moved, a whole group left one meeting and formed a new one out of a resentment, my sponsor got a girlfriend and basically dropped me. My newly found social bubble was burst.
+
+But then I got invited to a party. And met a new group of people. This new group invited me to a "Step Doey" - a group of us met once a week for 12 weeks to do an accelerated version of the steps. I met new people from different cliques, who, for a while seemed like my new group. After the Step Doey ended, we formed a new group of artists, makers and creatives to work on *The Artists Way*, a 12-step recovery for artists. We spent 14 weeks together and many of us found a new sense of identity with the group. Not only alcoholics and addicts, but also artists, with a common set of shared issues that tend to come with the artist personality.
+
+Unfortunately the sense of cohesion with this group didn't last either. 6 months later, none of us even keep in touch. It was a total bummer. I think this is where I started to drift from the program. Went from two different senses of group identity and a sponsor that I pedestalized to feeling alone. 
+
+In approximately Spring of 2019, I parted ways with my previous sponsor after he was absent for about 6 months and got a new sponsor. Joe. Where my first sponsor was essentially the first warm body who made me feel comfortable, Joe was someone who had something that I wanted. The job, the car, the family, the white picket fence, and the Buddhist spiritual practice that I admired. As well as around 30 years of sobriety. 
+
+Joe and I worked together on a sort of *maintenance* basis, went up to Sacramento for an 11th Step Retreat and got together once a month to work through some step. I ultimately never achieved the spiritual practice Joe had, mostly because I didn't work at it, but I was at least still going through the motions.
+
+I started backing off meetings. I couldn't relate to most of them people in them - frankly I still can't - and it didn't make sense to me to invest so much time in something that was no longer an issue. Eventually I was going to 1 or 2 a month - to see acquaintances - not for the message.
+
+I was watching some news show, maybe Meet the Press, and there was a guy on there who wrote a book called *The Sober Truth* which made a really good case against AA as junk science, using a combination of meta-analysis, study, and anecdote. Meanwhile, things were going really good for me. I had lost a bunch of weight, I was working out everyday, feeling good, looking good, confidence was back. So after talking it over with several friends, my Mom, my psychiatrist and pondering it for a month, I decided to try moderate drinking. After all, most of the issues that led me to drink in the first place (except, apparently, for self-control) had been dealt with through the 12 steps. So I figured that I would be fine.
+
+And I was, for a time. I started drinking again in early November 2019. And although I consistently failed to keep any limits I set for myself, it didn't become a daily, unhealthy habit until February 2020 when I took a cruise with my Mom and my best friend. I worked hard to sneak as much wine as possible on the cruise ship to avoid paying their crazy prices for alcohol, and still spent like $400 on booze.
+
+After a couple nights out, having 10+ drinks (at $10 a pop) and feeling like absolute shit the next day, I realized that drinking isn't all that much fun. I don't know that I was drinking to escape this time, I was just drinking because I really liked it. I liked the effect alcohol has on me. But the problem with being a guy my size is that I have a super high tolerance. So I have to drink more and more and more to get the same buzz, with diminishing returns. To the point that a mild buzz caused me to be sick in bed the next day from a hangover.
+
+Anyway, after the cruise this behavior didn't stop. I kept drinking a lot. At least 3-4 days a week with 6+ plus beers each time. I put back on mot of the weight that I lost. And wasted a ton of money.
+
+That's the thing about alcohol, the fun is short lived and it's really expensive.
 
 ## My Story Coming Back
 
+I came back to AA, emotionally defeated. Embarrassed, resentful. I thought I was going to beat the system, that I wasn't like these weird churchy people. And the universe has had a way of humbling me.
+
+I got a new sponsor pretty quick, decided to try a female sponsor this time, two male ones didn't work, so might as well switch it up. She's quite a bit younger than me too, which has been an interesting power dynamic, but so far so good.
+
+I took a 30 day virtual chip last week. Haven't had a desire to drink beyond the first couple of days - and this past Friday when I was on a virtual happy hour with my friends who were all drinking. I've also had less mindfog and I've been waking up fresher.
+
+I think my sponsor has broken down my barriers somewhat, I'm sure I'm a hand full, but I am back to working the steps, accepting that I am powerless over alcohol after the first drink and that I need to just keep away from it. And...soon I need to get back on the weight loss wagon again. I probably will go back on my liquid diet at Kaiser.

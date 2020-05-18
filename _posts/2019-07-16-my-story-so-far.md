@@ -165,8 +165,13 @@ I was told by a doctor that it looks like I have hepatitis from my drinking, but
 
 ## Dating & Internalized Homophobia
 
+Another thing that alcohol helped me with, especially in early adulthood, was dating and intimacy with men. Because of my upbringing, there was a lot of internalized homophobia. I knew I was gay, I was out, I was dating men, but I was still very repressed in a lot of ways. Kissing a man or having sex with a man required alcohol to let my guard down. 
+
+The first time I had sex without some kind of substance involved was at age 26. And it was weird. Freeing also, but weird to be fully present.
+
 ## Embarrassment While Drinking
 ### Alcohol Poisoning in Mexico
+
 
 ### Pub Crawl
 
